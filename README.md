@@ -10,3 +10,10 @@ issues入口[issues](https://github.com/TommyWongww/reading-notes/issues)
 > https://arxiv.org/pdf/1905.02450.pdf
 
 - [ ] 其他阅读笔记
+
+- [ ] Deep Learning 解析
+- L0、L1正则深度解析[issue入口]()
+- BN深度解析[issue入口]()
+
+- [ ] Machine Learning 解析
+- Xgboost、GBDT解析[issue入口]()
