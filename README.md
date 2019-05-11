@@ -12,8 +12,8 @@ issues入口[issues](https://github.com/TommyWongww/reading-notes/issues)
 - [ ] 其他阅读笔记
 
 - [ ] Deep Learning 解析
-- L0、L1正则深度解析[issue入口]()
-- BN深度解析[issue入口]()
+- L0、L1、L2正则深度解析[issue入口](https://github.com/TommyWongww/reading-notes/issues/4#issue-442946703)
+- BN深度解析[issue入口](https://github.com/TommyWongww/reading-notes/issues/5#issue-442946900)
 
 - [ ] Machine Learning 解析
-- Xgboost、GBDT解析[issue入口]()
+- Xgboost、GBDT解析[issue入口](https://github.com/TommyWongww/reading-notes/issues/6#issue-442947206)
